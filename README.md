@@ -8,7 +8,7 @@
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/IsraelNeto2/readme/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IsraelNeto2/IsraelNeto2/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
